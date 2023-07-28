@@ -13,7 +13,7 @@ class ProductManager {
     } else {
       //En caso contrario:
       const product = {
-        id: this.id++,
+        id: this.id++, //Agrega 1 al último ID existente
         title,
         description,
         price,
