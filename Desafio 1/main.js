@@ -48,6 +48,7 @@ const productManager = new ProductManager();
 
 //Para poder usar la funcion de "addProduct()", "getProducts()" o "getProductsById()", si o si hay que usar "productManager"
 //Ejemplos:
+//productManager.addProduct(nombre,descripcion,precio,imagen,codigo,stock)
 productManager.addProduct(
   "notebook",
   "descripción para una notebook",
