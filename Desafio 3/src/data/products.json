@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Fideos",
+    "description": "Rico",
+    "price": 200,
+    "code": "AA321",
+    "stock": 20,
+    "thumbnail": [],
+    "id": 2
+  },
+  {
+    "title": "Arroz",
+    "description": "Rico",
+    "price": 300,
+    "code": "AA123",
+    "stock": 20,
+    "thumbnail": [],
+    "id": 1
+  },
+  {
+    "title": "Pan",
+    "description": "Rico",
+    "price": 100,
+    "code": "AA231",
+    "stock": 20,
+    "thumbnail": [],
+    "id": 3
+  }
+]
