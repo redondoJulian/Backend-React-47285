@@ -1,0 +1,70 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Fideos largos",
+      "description": "Fideos muy ricos y de buena calidad",
+      "price": 200,
+      "thumbnail": "no img",
+      "code": "001",
+      "stock": 20,
+      "category": "fideos",
+      "status": true
+    },
+    {
+      "id": 2,
+      "title": "Fideos bucatini",
+      "description": "Fideos muy ricos y de buena calidad",
+      "price": 200,
+      "thumbnail": "no img",
+      "code": "002",
+      "stock": 20,
+      "category": "fideos",
+      "status": true
+    },
+    {
+      "id": 3,
+      "title": "Fideos sol pampeano",
+      "description": "Fideos muy ricos y de buena calidad",
+      "price": 200,
+      "thumbnail": "no img",
+      "code": "003",
+      "stock": 20,
+      "category": "fideos",
+      "status": true
+    },
+    {
+      "id": 4,
+      "title": "Arroz fino",
+      "description": "Arroz de buena calidad",
+      "price": 150,
+      "thumbnail": "no img",
+      "code": "004",
+      "stock": 4,
+      "category": "arroz",
+      "status": true
+    },
+    {
+      "id": 5,
+      "title": "Arroz largo",
+      "description": "Arroz de buena calidad",
+      "price": 150,
+      "thumbnail": "no img",
+      "code": "005",
+      "stock": 23,
+      "category": "arroz",
+      "status": true
+    },
+    {
+      "id": 6,
+      "title": "Arroz integral",
+      "description": "Arroz de buena calidad",
+      "price": 150,
+      "thumbnail": "no img",
+      "code": "006",
+      "stock": 3,
+      "category": "arroz",
+      "status": true
+    }
+  ]
+}
